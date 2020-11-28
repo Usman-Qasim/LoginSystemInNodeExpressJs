@@ -1,0 +1,19 @@
+Functionalities
+Part One
+1. Avatar.
+2. Proper Error Handling.
+3. Email Verification.
+4. Clean the Code.
+5. Save Login System for Future Use.
+
+Part Two
+1. Ejs Implementation
+2. Registration and Login System.
+3. Error Handling.
+4. AJAX use for this purpose.
+5. Http to Https Pending
+
+Part Three
+1. Implementation of Codesave.
+
+Cookies Reference = https://medium.com/@paul.senon/node-express-js-cookies-set-get-secure-884311606148
